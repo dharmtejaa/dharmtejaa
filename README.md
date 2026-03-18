@@ -4,10 +4,6 @@
 
 - 🔭 I'm currently working on **Invospares, a cross-platform POS and inventory solution. Building it from the ground up using Flutter, Dart, and leveraging Provider for state management.**
 
-- 🌱 I'm currently learning **SQLite to integrate efficient local databases in mobile apps.
-CI/CD to automate my build and deployment workflows.
-Node.js to build scalable backend services.**
-
 - 👯 I'm looking to collaborate on **open-source Flutter projects that focus on clean architecture and a great user experience.**
 
 - 📫 How to reach me **dharmateja238@gmail.com**
